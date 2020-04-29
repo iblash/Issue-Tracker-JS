@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url("img/nordwood-themes-EZSm8xRjnX0-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+/*
+.col-md-7 {
+       background-color: rgb(21, 216, 21);
+   }*/
+
+   .rounded p-3 border bg-light mb-2 {
+       background-color: blueviolet;
+   }
